@@ -1,3 +1,5 @@
+package DAY6.HOMETASK;
+
 public class Holidays {
     public static void main(String[] args) {
         int holidays = 0;
@@ -5,7 +7,7 @@ public class Holidays {
         for (int month = 1; month <= 12; month++) {
             for (int week = 1; week <= 4; week++) {
 
-                System.out.println("Month " + month + " Week " + week + " Sunday");
+                System.out.println("Month " + month + " Week " + week + " DAY6.HOMETASK.Sunday");
                 holidays++;
 
                 if (week == 2) {
@@ -15,6 +17,6 @@ public class Holidays {
             }
         }
 
-        System.out.println("Total Holidays = " + holidays);
+        System.out.println("Total DAY6.HOMETASK.Holidays = " + holidays);
     }
 }

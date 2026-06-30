@@ -1,3 +1,5 @@
+package DAY6.HOMETASK;
+
 import java.util.Scanner;
 public class Star {
     public static void main(String[] args){

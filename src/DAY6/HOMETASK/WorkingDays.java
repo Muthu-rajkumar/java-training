@@ -1,3 +1,5 @@
+package DAY6.HOMETASK;
+
 public class WorkingDays {
     public static void main(String[] args) {
         int count = 0;

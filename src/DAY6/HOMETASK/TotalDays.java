@@ -1,4 +1,6 @@
- public class TotalDays {
+package DAY6.HOMETASK;
+
+public class TotalDays {
         public static void main(String[] args) {
             int days = 0;
 

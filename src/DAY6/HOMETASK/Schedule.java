@@ -1,3 +1,5 @@
+package DAY6.HOMETASK;
+
 public class Schedule {
     public static void main(String[] args) {
         int i = 5;

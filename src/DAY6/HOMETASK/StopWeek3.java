@@ -1,3 +1,5 @@
+package DAY6.HOMETASK;
+
 public class StopWeek3 {
     public static void main(String[] args) {
         for (int month = 1; month <= 12; month++) {
